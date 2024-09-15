@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kKaveesha Silva
+- 👋 Hi, I’m @Kaveesha Silva
 - 👀 I’m interested in Network Security and Cloud Security.
 - 🌱 I’m currently learning a Pearson BTEC Level 5 HND in Computing Cyber Security
 - 💞️ I’m looking to collaborate on Network Designing, Cloud and Cyber Security Projects
